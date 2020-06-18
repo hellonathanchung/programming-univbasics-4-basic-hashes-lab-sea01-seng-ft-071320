@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {:favorite_snack => "anything with peanut butter"}
+  { :favorite_snack => "anything with peanut butter" }
 end
 
 def pioneer
